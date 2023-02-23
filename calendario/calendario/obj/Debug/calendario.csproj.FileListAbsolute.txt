@@ -1,0 +1,9 @@
+c:\users\investor_dm_\documents\visual studio 2015\Projects\calendario\calendario\bin\Debug\calendario.exe.config
+c:\users\investor_dm_\documents\visual studio 2015\Projects\calendario\calendario\bin\Debug\calendario.exe
+c:\users\investor_dm_\documents\visual studio 2015\Projects\calendario\calendario\bin\Debug\calendario.pdb
+c:\users\investor_dm_\documents\visual studio 2015\Projects\calendario\calendario\obj\Debug\calendario.csprojResolveAssemblyReference.cache
+c:\users\investor_dm_\documents\visual studio 2015\Projects\calendario\calendario\obj\Debug\calendario.Calendario.resources
+c:\users\investor_dm_\documents\visual studio 2015\Projects\calendario\calendario\obj\Debug\calendario.Properties.Resources.resources
+c:\users\investor_dm_\documents\visual studio 2015\Projects\calendario\calendario\obj\Debug\calendario.csproj.GenerateResource.Cache
+c:\users\investor_dm_\documents\visual studio 2015\Projects\calendario\calendario\obj\Debug\calendario.exe
+c:\users\investor_dm_\documents\visual studio 2015\Projects\calendario\calendario\obj\Debug\calendario.pdb
